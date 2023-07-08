@@ -1,11 +1,11 @@
 Link to unlisted YouTube video:
-
+https://youtu.be/VX9GP-15ZJQ
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF:
 https://drive.google.com/file/d/1TZlpQeGWmEDBcnvfCm5DHcUXbuGkOXEz/view?usp=sharing
 Native/original format:
-
+https://drive.google.com/file/d/1fwA0vop3_RyKMzdmHEbmkRskUZPMya2V/view?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book:
 Designing Data-Intensive Applications
