@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/1712131651nntjtjcnsmzb
 
 Unlisted YouTube video:
-https://youtu.be/ohNi3jMnIMM
+https://youtu.be/l8QJFMuiPW0
 
 Paper title:
 Efficient Action Detection with Hybrid Transformer-Based Models: Leveraging Distributed and Parallel Computing
