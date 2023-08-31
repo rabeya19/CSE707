@@ -2,7 +2,7 @@ Overleaf link with edit access:
 https://www.overleaf.com/4561496832nmypmpbkqxpp
 
 Unlisted YouTube video:
-
+https://youtu.be/c32wNrw0D3I
 
 Paper title:
 Efficient Action Detection with Hybrid Transformer-Based Models_ Leveraging Distributed and Parallel Computing
